@@ -11,9 +11,9 @@ else
 echo "Активировано какое то не то окружение... - $ver"
 fi
 
-# start "" "App\TrashCatWindows\TrashCat-Windows.exe"
-# echo 'Запуск игры'
-# sleep 10
+start "" "App\TrashCatWindows\TrashCat-Windows.exe"
+echo 'Запуск игры'
+sleep 10
 
 echo 'Запуcк тестов'
 sleep 1
